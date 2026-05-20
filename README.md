@@ -23,6 +23,7 @@ I'm a Vietnamese-Australian B.CompSci student interested in data analysis, front
 - Excel / Google Sheets 
 - Jupyter Notebook
 - Java
+- R Markdown
 
 ## Goals  ༘˚⋆ 🌱 ｡⋆𖦹.✧˚
 - Developing an end-to-end data analysis project
