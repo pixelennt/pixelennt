@@ -28,7 +28,7 @@ I'm a Vietnamese-Australian B.CompSci student interested in data analysis, front
 - Developing an end-to-end data analysis project
 - Upskilling in building data cleaning and visualization workflows on sample datasets
 - Improve coding consistency
-- Gain internship-ready skills in data or software engineering
+- Gain internship-ready skills in Data or CompSci
 
 ## ୧ ‧₊˚ 💌 Reach out!
 - LinkedIn: https://linkedin.com/in/vividangnguyen
