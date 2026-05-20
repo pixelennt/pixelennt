@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # ⊹₊˚‧︵‿₊୨ Hi, I'm Vivi <3 ୧₊‿︵‧˚₊⊹
-I'm a Vietnamese-Australian B.CompSci student interested in data analysis, front-end development, and AI. I'm looking to explore different areas before choosing a long-term focus. My hobbies are limitless, you might see me at the gym, or in my room crocheting >///<
+I'm a Vietnamese-Australian B.CompSci student interested in data analysis, front-end development, and AI. I'm looking to explore different areas before choosing a long-term focus. My hobbies are limitless, you might see me at the gym, or in my room making jewellery >///<
 
 ## Skillset (& learning more) ♡₊˚ 🦢・₊✧ 
 - Python (Pandas, NumPy, Matplotlib ect.)
