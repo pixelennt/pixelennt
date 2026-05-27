@@ -13,14 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⊹₊˚‧︵‿₊୨ Hi, I'm Vivi <3 ୧₊‿︵‧˚₊⊹
-I'm a Vietnamese-Australian B.CompSci student interested in data analysis, front-end development, and AI. I'm looking to explore different areas before choosing a long-term focus. My hobbies are limitless, you might see me at the gym, or in my room making jewellery >///<
+# ⊹₊˚‧︵‿₊୨ Hi, I'm Vivi ୧₊‿︵‧˚₊⊹
+I'm a Vietnamese-Australian B.CompSci student interested in data analysis and AI. 
+My hobbies are limitless, you might see me at the gym, reading at the park or in my room making jewellery.
+
+## Technical Skills 𑣲⋆｡˚
+Languages: Python, R, SQL, Java, C++
+Data & Analytics: Data preprocessing, EDA, regression modelling, basic machine learning
+Tools: Excel, Weka, Git, VS Code
 
 ## Goals  ༘˚⋆ 🌱 ｡⋆𖦹.✧˚
-- Developing an end-to-end data analysis project
-- Upskilling in building data cleaning and visualization workflows on sample datasets
-- Improve coding consistency
-- Gain internship-ready skills in Data or CompSci
+- Developing an end to end data analysis project
+- Upskilling in building data cleaning and visualization workflows on real world datasets
+- Consolidating SQL + Excel
+- Gain internship ready skills in Data or CompSci
 
 ## ୧ ‧₊˚ 💌 Reach out!
 - LinkedIn: https://linkedin.com/in/vividangnguyen
