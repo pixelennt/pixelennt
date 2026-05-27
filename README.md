@@ -18,9 +18,9 @@ I'm a Vietnamese-Australian B.CompSci student interested in data analysis and AI
 My hobbies are limitless, you might see me at the gym, reading at the park or in my room making jewellery.
 
 ## Technical Skills 𑣲⋆｡˚
-Languages: Python, R, SQL, Java, C++
-Data & Analytics: Data preprocessing, EDA, regression modelling, basic machine learning
-Tools: Excel, Weka, Git, VS Code
+Languages: Python, R, SQL, Java, C++  
+Data & Analytics: Data preprocessing, EDA, regression modelling, basic machine learning  
+Tools: Excel, Weka, Git, VS Code 
 
 ## Goals  ༘˚⋆ 🌱 ｡⋆𖦹.✧˚
 - Developing an end to end data analysis project
